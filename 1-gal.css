@@ -3,7 +3,8 @@
     font-family:"Negara Serif Hairline"; 
     src:url(1.otf); 
     }
-    
+     body {background: url(ConBack.jpg) 100% 100% no-repeat; /* Добавляем фон */
+      background-size: cover; }
 .content{
     /* border:1px solid black; */
     height:100% ;
